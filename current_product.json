@@ -1,0 +1,15 @@
+[
+  {
+    "cpu": "Exynos 990",
+    "camera": "108 + 12 mp",
+    "id": 1,
+    "images": "https://s3-alpha-sig.figma.com/img/d1b7/bb45/4550f89700425fc584d236341df8ed4c?Expires=1730073600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dHlAQNQvNN8cYUNOEosLroTQW98KCtPcKICIbBOhOd0esGTaIFVZSE-4THN57ogY8HuLzgJdrbbSvY2w5CLzfE0P2JK6y3YjodRjw7UCNQnOqGWCXfj6QaqVMCGXVTAKr8YOxpdOX8NjIy3AW0yvzLohuZ8AlsgLF37FS8U9PKMCjf5l9QRAP3D8Q4zbkDF2gKMS47jhPsFd888cIilAEsB4lZ18ggZwPOV1FTc3PLPzhV9bV7cpzLRO94mSPiltkAk8CmNzwAx24wn-TH7XT6bgE1KkMI0XqnMEzZqxeaoepa7-PJ0fei4ho8FrwhK9JhWFR2Prq0ucQkX-EA6EUw__",
+    "isFavorites": true,
+    "price": "$1,500.00",
+    "rating": 5,
+    "sd": "8 GB",
+    "capacity" : "256 GB",
+    "color" : "0xff772D03",
+    "title": "Galaxy Note 20 Ultra"
+}
+]

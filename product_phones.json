@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "isFavorites": true,
+    "isNew": true,
+    "title": "Iphone 12",
+    "subtitle": "Súper. Mega. Rápido.",
+    "priceWithoutDiscount": "$2,000",
+    "discountPrice": "$1,540",
+    "picture": "https://s3-alpha-sig.figma.com/img/8454/b4bf/3b55c41fcad271ba51b4bae6e9df561d?Expires=1730073600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=m7afRPouewbuxmMQ-Xm1BlU4WwWKe81nHAY0yRIt7r~wMbkkJ2LByNnv6k~RGarUb08nDLufydsNTIkSEklZ1H1HbGv2zkT06pOq9ywLVYFmXVPlG~V1ZcpPmRkFmTLNK36PYlr1MiZBffQlEvw1jm6iXnk85EYN7qOFXxSiDRyyWLch9lAaYuEAVfVBZBL9UHuMyg0pTnmd8S3H-T7Bpm7EGuAl-h~RFb4rmmKxLnpDN-n2sSp4nHfM4Jyl1Z-ULExEuUKmjls4MF5BaC4Ve7zTrnOIjHjcffOYAOeNTmZNztNrq3dEwJcecP0UzrLXrv05qp2cfEzCDaEJHv9GSw__",
+    "isBuy": true,
+    "isBestSeller" : false
+  },
+  {
+    "id": 2,
+    "isFavorites": true,
+    "isNew": true,
+    "title": "Xiaomi Mi 10 Pro",
+    "subtitle": "",
+    "priceWithoutDiscount": "$400",
+    "discountPrice": "$300",
+    "picture": "https://s3-alpha-sig.figma.com/img/668c/7b0c/38994350ffea949927f5fc7a82d7555a?Expires=1730073600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=VA7tCmTEWTRE3ljaJBUy63-yjgh96ouRc7J4Is-aqV33sFa0Bf2lfqfxkaNExknQ0PjCZb7NdQOPvHNRQdaeBcsN2mXGvpQPrONEX2aMOZNdy4JKKPxRBOYw3VeLQhNZzZZIT6ITct~k45HHnByCbSkG53d7Jp8ZOWKi~Lk~gw--Ianmi6ZulcXbZrur~bH~d2wQvD6ae7q8xCNV~flvfeE7i3nSIA6FtCf5AcwDVS8sp1w8fBFajxPqYfU2ayTvQknS3VymvsLEnCy6FyVkMNiopfNRLLD~xFKtAXKnYQkkKyDDJz1ca8mdwpmlgcfg7I2~oD7P4a6gXXOU10XwXg__",
+    "isBuy": true,
+    "isBestSeller" : true
+
+  },
+  {
+    "id": 3,
+    "isFavorites": false,
+    "isNew": false,
+    "title": "Samsung Note 20 Ultra",
+    "subtitle": "",
+    "priceWithoutDiscount": "$1,500",
+    "discountPrice": "$1,047",
+    "picture": "https://s3-alpha-sig.figma.com/img/d1b7/bb45/4550f89700425fc584d236341df8ed4c?Expires=1730073600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dHlAQNQvNN8cYUNOEosLroTQW98KCtPcKICIbBOhOd0esGTaIFVZSE-4THN57ogY8HuLzgJdrbbSvY2w5CLzfE0P2JK6y3YjodRjw7UCNQnOqGWCXfj6QaqVMCGXVTAKr8YOxpdOX8NjIy3AW0yvzLohuZ8AlsgLF37FS8U9PKMCjf5l9QRAP3D8Q4zbkDF2gKMS47jhPsFd888cIilAEsB4lZ18ggZwPOV1FTc3PLPzhV9bV7cpzLRO94mSPiltkAk8CmNzwAx24wn-TH7XT6bgE1KkMI0XqnMEzZqxeaoepa7-PJ0fei4ho8FrwhK9JhWFR2Prq0ucQkX-EA6EUw__",
+    "isBuy": true,
+    "isBestSeller" : false
+
+  },
+  {
+    "id": 4,
+    "isFavorites": true,
+    "isNew": false,
+    "title": "Motorola One Edge",
+    "subtitle": "",
+    "priceWithoutDiscount": "$400",
+    "discountPrice": "$300",
+    "picture": "https://s3-alpha-sig.figma.com/img/e54a/b258/896e7ab6f157ec58af9caea0986ff2b4?Expires=1730073600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=AN5QpA13bsQhTkU2abzwv-~O3oIFf3GcBFE9jB9hI~vOFcBkxmIouXZfSuKl5fIvrG~C~sBXxqPKcZykhtipaNx2ROzAcigsJM6YDvAdpZ2K4Y3UPQuCYP56XVbug3NIFZw5G8vHKgouXj8N2i~33wUp~hmIxytOHCNgWxyGSo3c-NROrK9q2hecHK3kfHy49d4FqBFLnKAbDTrYSfw8H6P8jaCh7mP8Yi28LJBNB-5aPTk9xY2Po6tdfTFPh01OJxq6tdVzzXAKRVLs50jAF0fGwYPcD09xIRY52SSxIoKxVmgYGi4JIwCM6PeFTL6KxTuSiCPMRCALXSZhwK~ysQ__",
+    "isBuy": true,
+    "isBestSeller" : false
+  },
+  {
+    "id": 5,
+    "isFavorites": false,
+    "isNew": true,
+    "title": "Samsung Galaxy s20 Ultra",
+    "subtitle": "",
+    "priceWithoutDiscount": "$1,500",
+    "discountPrice": "$1,047",
+    "picture": "https://s3-alpha-sig.figma.com/img/b6d3/9b18/885ac17bac4ee0ec3e8229c12dd64d51?Expires=1730073600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pWZM82IBh-E1s~VALNEFu4AixyUBKe1uzi3UJw2mIAElxjxwP~VC8oHPEsU83UfElqKpl5Q4tPCDzFL6NdDqE5KAMLNPKBlS9W~JCUZK6sxxUPCZoZXVdmnM5Qcj7bjOskOSTkVCXMw~mBf16fHaZs5BY3L50WlDo1nCi40D0WOaaJg~mbYoGHAsDSD8v3b-ZnTyI0fpmarOVZQkfUIfzpyIA6tqGzLFOgxOl0E0HO0dZ3TZuEkLYZK3aF9Z6q9WOKyl7aszmvEU0m2IxSrVBVLtmLv~O5wkh13-8Ku7nnCIimugcBPihlEZaUxP14w4lFBF~623lcqFrL1IKsOLmQ__",
+    "isBuy": true,
+    "isBestSeller" : true
+  },
+  {
+    "id": 6,
+    "isFavorites": false,
+    "isNew": true,
+    "title": "Samsung Galaxy s20 Ultra",
+    "subtitle": "",
+    "priceWithoutDiscount": "$1,500",
+    "discountPrice": "$1,047",
+    "picture": "https://s3-alpha-sig.figma.com/img/b6d3/9b18/885ac17bac4ee0ec3e8229c12dd64d51?Expires=1730073600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pWZM82IBh-E1s~VALNEFu4AixyUBKe1uzi3UJw2mIAElxjxwP~VC8oHPEsU83UfElqKpl5Q4tPCDzFL6NdDqE5KAMLNPKBlS9W~JCUZK6sxxUPCZoZXVdmnM5Qcj7bjOskOSTkVCXMw~mBf16fHaZs5BY3L50WlDo1nCi40D0WOaaJg~mbYoGHAsDSD8v3b-ZnTyI0fpmarOVZQkfUIfzpyIA6tqGzLFOgxOl0E0HO0dZ3TZuEkLYZK3aF9Z6q9WOKyl7aszmvEU0m2IxSrVBVLtmLv~O5wkh13-8Ku7nnCIimugcBPihlEZaUxP14w4lFBF~623lcqFrL1IKsOLmQ__",
+    "isBuy": true,
+    "isBestSeller" : true
+  },
+  {
+    "id": 7,
+    "isFavorites": true,
+    "isNew": true,
+    "title": "Xiaomi Mi 10 Pro",
+    "subtitle": "",
+    "priceWithoutDiscount": "$400",
+    "discountPrice": "$300",
+    "picture": "https://s3-alpha-sig.figma.com/img/668c/7b0c/38994350ffea949927f5fc7a82d7555a?Expires=1730073600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=VA7tCmTEWTRE3ljaJBUy63-yjgh96ouRc7J4Is-aqV33sFa0Bf2lfqfxkaNExknQ0PjCZb7NdQOPvHNRQdaeBcsN2mXGvpQPrONEX2aMOZNdy4JKKPxRBOYw3VeLQhNZzZZIT6ITct~k45HHnByCbSkG53d7Jp8ZOWKi~Lk~gw--Ianmi6ZulcXbZrur~bH~d2wQvD6ae7q8xCNV~flvfeE7i3nSIA6FtCf5AcwDVS8sp1w8fBFajxPqYfU2ayTvQknS3VymvsLEnCy6FyVkMNiopfNRLLD~xFKtAXKnYQkkKyDDJz1ca8mdwpmlgcfg7I2~oD7P4a6gXXOU10XwXg__",
+    "isBuy": true,
+    "isBestSeller" : true
+
+  },
+  {
+    "id": 8,
+    "isFavorites": false,
+    "isNew": false,
+    "title": "Samsung Note 20 Ultra",
+    "subtitle": "",
+    "priceWithoutDiscount": "$1,500",
+    "discountPrice": "$1,047",
+    "picture": "https://s3-alpha-sig.figma.com/img/d1b7/bb45/4550f89700425fc584d236341df8ed4c?Expires=1730073600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dHlAQNQvNN8cYUNOEosLroTQW98KCtPcKICIbBOhOd0esGTaIFVZSE-4THN57ogY8HuLzgJdrbbSvY2w5CLzfE0P2JK6y3YjodRjw7UCNQnOqGWCXfj6QaqVMCGXVTAKr8YOxpdOX8NjIy3AW0yvzLohuZ8AlsgLF37FS8U9PKMCjf5l9QRAP3D8Q4zbkDF2gKMS47jhPsFd888cIilAEsB4lZ18ggZwPOV1FTc3PLPzhV9bV7cpzLRO94mSPiltkAk8CmNzwAx24wn-TH7XT6bgE1KkMI0XqnMEzZqxeaoepa7-PJ0fei4ho8FrwhK9JhWFR2Prq0ucQkX-EA6EUw__",
+    "isBuy": true,
+    "isBestSeller" : false
+
+  },
+  {
+    "id": 9,
+    "isFavorites": true,
+    "isNew": false,
+    "title": "Motorola One Edge",
+    "subtitle": "",
+    "priceWithoutDiscount": "$400",
+    "discountPrice": "$300",
+    "picture": "https://s3-alpha-sig.figma.com/img/e54a/b258/896e7ab6f157ec58af9caea0986ff2b4?Expires=1730073600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=AN5QpA13bsQhTkU2abzwv-~O3oIFf3GcBFE9jB9hI~vOFcBkxmIouXZfSuKl5fIvrG~C~sBXxqPKcZykhtipaNx2ROzAcigsJM6YDvAdpZ2K4Y3UPQuCYP56XVbug3NIFZw5G8vHKgouXj8N2i~33wUp~hmIxytOHCNgWxyGSo3c-NROrK9q2hecHK3kfHy49d4FqBFLnKAbDTrYSfw8H6P8jaCh7mP8Yi28LJBNB-5aPTk9xY2Po6tdfTFPh01OJxq6tdVzzXAKRVLs50jAF0fGwYPcD09xIRY52SSxIoKxVmgYGi4JIwCM6PeFTL6KxTuSiCPMRCALXSZhwK~ysQ__",
+    "isBuy": true,
+    "isBestSeller" : false
+  }
+]
