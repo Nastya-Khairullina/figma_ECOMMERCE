@@ -11,13 +11,13 @@ import 'feature/product/presentation/bloc/product_bloc.dart';
 import 'locator_service.dart';
 
 void main() async {
-  WidgetsFlutterBinding.ensureInitialized(); // Убедитесь, что Flutter инициализирован
-  await depinjections.initializeDependencies(); // Инициализация зависимостей
+  WidgetsFlutterBinding.ensureInitialized();
+  await depinjections.initializeDependencies();
 
   runApp(
     ChangeNotifierProvider(
-      create: (context) => CartDataProvider(), // Создание экземпляра CartDataProvider
-      child: const MyApp(), // Оборачивание MyApp в Provider
+      create: (context) => CartDataProvider(), 
+      child: const MyApp(), 
     ),
   );
 }
